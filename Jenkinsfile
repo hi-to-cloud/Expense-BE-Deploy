@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        label 'naveen-2'
+        label 'hi-to-cloud'
     }
     options {
         timeout(time: 30, unit: 'MINUTES')
